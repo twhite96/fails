@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # Hey. 👋🏽
 
-I'm Tiffany and this is my career graveyard.
+I'm tiff and this is my career graveyard.
 
 This is a site that lists all the starts and stops and starts and stops that got me to where I am now, and will continue for the rest of my life.
 
