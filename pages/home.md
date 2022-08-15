@@ -25,8 +25,8 @@ This is a site that lists all the starts and stops and starts and stops that got
 - Microsoft (*SWE I, made it to the final round and was asked to reapply*)
 - SAP
 - FormSwift
+- Zapier
 - Q-Centrix
-- Crossbeam
 - X-Team
 - Forem (*Interned with them and went to apply for a full-time engineering role*)
 - The New York Times
@@ -44,7 +44,25 @@ This is a site that lists all the starts and stops and starts and stops that got
 - Imperfect Foods
 - Wethos (*The one that hurt the most and still haunts me*)
 
-### Freelance 
+## 2022 Rejections
+- Crossbeam
+- Trello
+- Automattic
+- DigitalOcean
+- Zapier
+- Netlify
+- PayPal
+- Cloudflare
+- MongoDB
+- LinkedIn
+- Apollo
+- Seegrid
+- Headspace
+- Algolia
+- Fidelity
+- Mozilla
+<!-- Headspace, Audit Sight -->
+- ### Freelance 
 
 A lawyer I wasn't near ready to build a website for in 2015. I botched the negotiations and she vowed to not recommend me to anyone. Met her at a conference at the computer science program at the school I was attending.
 
