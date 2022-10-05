@@ -72,8 +72,9 @@ This is a site that lists all the starts and stops and starts and stops that got
 - DataDog
 - System1
 - Headspace
-- Audit Sight
-- ### Freelance 
+
+
+### Freelance 
 
 A lawyer I wasn't near ready to build a website for in 2015. I botched the negotiations and she vowed to not recommend me to anyone. Met her at a conference at the computer science program at the school I was attending.
 
