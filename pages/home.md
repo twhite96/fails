@@ -70,7 +70,9 @@ This is a site that lists all the starts and stops and starts and stops that got
 - PayPal*
 - Zillow
 - DataDog
-<!-- Headspace, Audit Sight -->
+- System1
+- Headspace
+- Audit Sight
 - ### Freelance 
 
 A lawyer I wasn't near ready to build a website for in 2015. I botched the negotiations and she vowed to not recommend me to anyone. Met her at a conference at the computer science program at the school I was attending.
@@ -80,6 +82,6 @@ A lawyer I wasn't near ready to build a website for in 2015. I botched the negot
 
 <hr />
 
-*Amazon continues to contact me and I've applied for a few roles.<br />
-*This role was for a technical writer.<br />
-*PayPal is still an ongoing back and forth. <br />
+*Amazon continues to contact me and I've applied for a few roles.
+*This role was for a technical writer.
+*PayPal is still an ongoing back and forth.
